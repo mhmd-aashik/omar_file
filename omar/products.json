@@ -1,0 +1,45 @@
+ [
+  {
+    "id": 1,
+    "name": " Minion Toy",
+    "price": 500,
+    "image": "images/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": " Teddy Bear",
+    "price": 750,
+    "image": "images/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Small Teddy Bear",
+    "price": 500,
+    "image": "images/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Cotton Teddy Bear",
+    "price": 500,
+    "image": "images/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Orange Teddy Bear",
+    "price": 500,
+    "image": "images/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": " Plastic  Car",
+    "price": 200,
+    "image": "images/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": " Light Toy",
+    "price": 1200,
+    "image": "images/product7.jpg"
+  }
+]
+
